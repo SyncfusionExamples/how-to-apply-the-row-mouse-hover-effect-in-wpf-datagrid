@@ -24,6 +24,9 @@ private void SfDataGrid_MouseMove(object sender, System.Windows.Input.MouseEvent
 }
 
 ```
+
+![Row mouse hover effect in SfDataGrid](RowMouseOver.gif)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
 
