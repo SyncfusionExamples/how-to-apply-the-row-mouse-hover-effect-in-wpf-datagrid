@@ -13,6 +13,8 @@
     </Window.DataContext>   
     <Grid>
         <syncfusion:SfDataGrid x:Name="sfDataGrid"
+                               AllowRowHoverHighlighting="True"
+                               RowHoverHighlightingBrush="Yellow"
                                AllowResizingColumns="True"
                                ColumnSizer="Star"                              
                                ItemsSource="{Binding Orders}"                                                             
