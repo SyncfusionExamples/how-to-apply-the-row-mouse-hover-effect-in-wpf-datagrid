@@ -26,6 +26,8 @@ This example illustrates how to apply the row mouse hover effect in [WPF DataGri
 
 ![Row mouse hover effect in SfDataGrid](RowMouseOver.gif)
 
+KB article - [How to apply the row mouse hover effect in WPF DataGrid(SfDataGrid)?](https://www.syncfusion.com/kb/11816/how-to-apply-the-row-mouse-hover-effect-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
 
