@@ -2,7 +2,7 @@
 
 This example illustrates how to apply the row mouse hover effect in [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid).
 
-`DataGrid` provide the direct support for change the background color when mouse hover. You can achieve this by enabling the [AllowRowHoverHighlighting](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid~AllowRowHoverHighlighting.html) property and set the color by using [RowHoverHighlightingBrush](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid~RowHoverHighlightingBrush.html) property in `DataGrid`.
+`DataGrid` provide the direct support for change the background color when mouse hover. You can achieve this by enabling the [AllowRowHoverHighlighting](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_AllowRowHoverHighlighting) property and set the color by using [RowHoverHighlightingBrush](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_RowHoverHighlightingBrush) property in `DataGrid`.
 
 ```XML
 <syncfusion:SfDataGrid x:Name="sfDataGrid"
