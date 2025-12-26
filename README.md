@@ -1,9 +1,8 @@
-# How to apply the row mouse hover effect in WPF DataGrid(SfDataGrid)?
+# How to Apply the Row mouse Hover Effect in WPF DataGrid?
 
-## About the sample
-This example illustrates how to apply the row mouse hover effect in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid)?
+This example illustrates how to apply the row mouse hover effect in [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid).
 
-[WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) provide the direct support for change the background color when mouse hover. You can achieve this by enabling the [AllowRowHoverHighlighting](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid~AllowRowHoverHighlighting.html) property and set the color by using [RowHoverHighlightingBrush](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid~RowHoverHighlightingBrush.html) property in [WPF DataGrid](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid.html) (SfDataGrid).
+`DataGrid` provide the direct support for change the background color when mouse hover. You can achieve this by enabling the [AllowRowHoverHighlighting](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_AllowRowHoverHighlighting) property and set the color by using [RowHoverHighlightingBrush](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_RowHoverHighlightingBrush) property in `DataGrid`.
 
 ```XML
 <syncfusion:SfDataGrid x:Name="sfDataGrid"
@@ -25,9 +24,3 @@ This example illustrates how to apply the row mouse hover effect in [WPF DataGri
 ```
 
 ![Row mouse hover effect in SfDataGrid](RowMouseOver.gif)
-
-KB article - [How to apply the row mouse hover effect in WPF DataGrid(SfDataGrid)?](https://www.syncfusion.com/kb/11816/how-to-apply-the-row-mouse-hover-effect-in-wpf-datagrid-sfdatagrid)
-
-## Requirements to run the demo
-Visual Studio 2015 and above versions
-
